@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Quake Report App
 ===================================
 
@@ -50,3 +51,6 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
+=======
+# QuakeReport-Android-Networking
+>>>>>>> c71f7a1c8ea7fa44767a1e64abb068dc7d2e462c
