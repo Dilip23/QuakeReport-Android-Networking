@@ -1,4 +1,4 @@
-package com.example.android.quakereport;
+package quakereport;
 
 /**
  * Created by LENOVO on 10-03-2018.
